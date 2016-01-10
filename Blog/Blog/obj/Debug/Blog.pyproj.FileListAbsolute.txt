@@ -1,0 +1,13 @@
+C:\Users\Scott\Documents\Django Projects\Blog\Blog\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\Scott\Documents\Django Projects\Blog\Blog\obj\Debug\attach_server.py
+C:\Users\Scott\Documents\Django Projects\Blog\Blog\obj\Debug\visualstudio_py_debugger.py
+C:\Users\Scott\Documents\Django Projects\Blog\Blog\obj\Debug\visualstudio_py_repl.py
+C:\Users\Scott\Documents\Django Projects\Blog\Blog\obj\Debug\visualstudio_py_util.py
+C:\Users\Scott\Documents\Django Projects\Blog\Blog\obj\Debug\__init__.py
+C:\Users\Scott\Documents\Django Projects\Blog\Blog\obj\Debug\__main__.py
+C:\Users\Scott\Documents\Django Projects\Blog\Blog\bin\AzureSetup.cfg
+C:\Users\Scott\Documents\Django Projects\Blog\Blog\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\Scott\Documents\Django Projects\Blog\Blog\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\Scott\Documents\Django Projects\Blog\Blog\bin\wfastcgi.py
+C:\Users\Scott\Documents\Django Projects\Blog\Blog\obj\Debug\web.config
+C:\Users\Scott\Documents\Django Projects\Blog\Blog\obj\Debug\web.debug.config
